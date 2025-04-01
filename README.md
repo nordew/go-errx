@@ -27,7 +27,7 @@ package main
 
 import (
     "fmt"
-    github.com/nordew/go-errx"
+    "github.com/nordew/go-errx"
 )
 
 func main() {
