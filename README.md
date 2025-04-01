@@ -17,7 +17,7 @@ A lightweight, expressive error handling library for Go that provides error code
 ## Installation
 
 ```bash
-go get github.com/yourusername/errx
+go get github.com/nordew/go-errx
 ```
 
 ## Quick Start
@@ -27,7 +27,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourusername/errx"
+    github.com/nordew/go-errx"
 )
 
 func main() {
